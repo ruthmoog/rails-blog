@@ -1,0 +1,18 @@
+> I'd love to hear more about the pivot and your retrospectives.  what did you learn about choosing technology stacks?
+
+## on choosing tech stacks:
+
+Choose whatever you want and explore something new!  The difficulty we had with this 1) time restriction, 2) not being able to identify what we _needed_ to move forward, and 3) being misguided by our working knowledge.
+I'm going to assume that whenever there is exploration and new tools involved, the last two problems will still happen.  And does anyone work somewhere with endless time to indulge their curiosity?
+ - For working to a deadline, time-boxing exploration is a good idea, or, if it's a tight deadline, choosing a stack you're familiar with, and switching out a tool with something new if it's more appropriate with more confidence of how everything works together.  Identifying what you _dont_ know is hard!  Practise and experience with more & varied technologies would be helpful.
+ - The assumption that you know what you're doing is probably a mistake kinda often?  In our case it was having too strict an idea about the MVC design, and attempting to have the MVC design model guide the system we were building rather than the system we needed shaping our MVC model.  Being able to decide the smallest thing you need to build first/next - and _why_ - with a team gives some focus.  Pretty sure having a variety of experience levels in the team might make life easier, but I wouldn't assume experienced devs don't make bad assumptions sometimes.
+
+## on retrospectives & pivoting:
+
+we followed a typical white board reflection, and thought about our goals,
+- are we having fun
+- are we better devs than yesterday
+- are we getting closer to our MVP
+We realised early that we weren't writing code or working _together_ while researching, and team members were not having a similar journey.  Since we needed more research to move forward, we time-boxed investigating and decided to review when the time was up and pivot if we didn't know what to do by then.  We deffo could have pivoted earlier! As a rule of thumb, figuring just enough info to do the next thing is a fair tactic.
+
+What do you think?  Any tips on choosing a tech stack?  Do you typically get to be part of that decision in your experience, and, as a junior developer?  Our decision in the remit of the course was very much 'Ruby or JavaScript' than 'what are the best technologies for the job?'.
